@@ -1,4 +1,4 @@
-# BotHunterX
+# BotHunterX model training
 
 Generate labeled conversational datasets by simulating multi-turn interactions between a `BotHunter` probe agent and a target assistant using Ollama.
 
